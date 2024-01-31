@@ -1,10 +1,10 @@
 # Table of contents
 
-* [note](README.md)
-* [流涨](liu-zhang.md)
+* [流涨](README.md)
 
 ## JOB
 
-* [helm](job/helm.md)
-* [Page 2](job/page-2.md)
-* [Page 3](job/page-3.md)
+* [Page](job/page.md)
+* [命令](job/ming-ling/README.md)
+  * [helm](job/ming-ling/helm.md)
+  * [linux](job/ming-ling/linux.md)
